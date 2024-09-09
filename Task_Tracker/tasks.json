@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "description": "Ir al gimnasio a las 15:00hs",
+    "status": "done",
+    "createdAt": "2024-09-09T10:46:43.999796",
+    "updatedAt": "2024-09-09T10:49:39.634746"
+  },
+  {
+    "id": 2,
+    "description": "Comprar la comida para el finde",
+    "status": "todo",
+    "createdAt": "2024-09-09T10:48:33.356041",
+    "updatedAt": "2024-09-09T10:48:33.356041"
+  }
+]
